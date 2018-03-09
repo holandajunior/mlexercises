@@ -37,7 +37,7 @@ Some points you have to notice:
  - Which evaluators have you chosen? And why? Explain to us!
  - Maybe you want to compare your models against scikit-learn models.
 
-I almost forgot it! You can use any ML lib from here and the remainder phases, ok?
+I almost forgot it! You can use any ML lib from here and the remaining phases, ok?
 
 
 ## Third Phase
