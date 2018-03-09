@@ -1,7 +1,7 @@
 
 # House Prices: Advanced Regression Techniques
 
-This exercises is about solving [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Do you know kaggle? If you do not, please go on and check it out! There are a lot of competitions and resources it provides us!
+This exercises is about solving [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Do you know kaggle? If you do not, please go on and check it out! There are a lot of competitions and resources!
 
 Straight to the point, below it has the description of the problem as the competitions' page says:
 
@@ -25,30 +25,33 @@ But it has some constraints, ok? We hope you can build the algorithm by yourself
 Although it is a machine learning challenge, we hope you can show us your software engineer skills, ok? Then, try to organize and make your code readable and beatiful as you can. Surprise us!
 
 ## Second phase
-Alright, you have developed such algorithms and now we all know how to get home's prices. However, is it has good answers? Could you explain us what your feelings about algorithms' results? It could be better, not only your feelings, you might show us why we can belive in your regressor, right?
+Alright, you have developed such algorithms and now we all know how to get home's prices. However, has it good answers? Could you explain us what your feelings about algorithms' results? It could be better, not only your feelings, you might show us why we can belive in your regressor, right?
 
 Some points you have to notice:
 
  - Which variable you chose when you developed the Univariate Linear Regressor?
- - Is it worth to use all variables when applying them into a Multivariate Linear Regressor? Why? Could you prove us?
- - How could we evaluate our algorithms? 
+ - Is it worth to use all variables when applying them into a Multivariate Linear Regressor? Why?
+ - How could we evaluate our algorithms?
+ - Describe to us the procedures that you followed.
  - Which evaluators have you chosen? And why? Explain us!
+ - Maybe you want to compare your models against scikit-learn models.
 
-I almost forget it! You can use any ML lib, ok?
+I almost forgot it! You can use any ML lib from here and the remainder phases, ok?
+
 
 ## Third Phase
-That's good! Now we are getting a better regressor! Don't you agree?
-But now, i guess your model has the [overfitting](https://en.wikipedia.org/wiki/Overfitting) problem. Alright, how can we solve this problem? Show us alternatives that we can use to avoid this problm when estimating our models! Even better, you can explain us what it is your understanding (with your own words, of course ;]) about every method, right?
+That's good! Now we are getting a better regressor. Don't you agree?
+But now, I guess your model has the [overfitting](https://en.wikipedia.org/wiki/Overfitting) problem. Alright, how can we solve this problem? Show us alternatives that we can use to avoid this when estimating your models. Even better, you can explain us your understanding (with your own words, of course ;]) about those methods, right?
 
 ## Fourth phase
-Of course there are much more algorithms to solve regression problems. Since Linear regression was the first we ask you to use, we would like to know which other algorithms you would suggest us to use in this problem. Find out over the literature which algorithms are supposed to be applyied, ok? In a high level, you have to explain a bit how it works, that's ok?
+Of course there are many more algorithms to solve regression problems. Since Linear regression was the first we ask you to use, we would like to know which other algorithms you would suggest us to use in this problem. Find out over the literature which algorithms you may apply. In a high level, could you explain us a bit how it works? Cool!
 
 
 ## Fifth phase
-You are becoming a great Data Scientist! Don't you? 
-**Now, this time is yours! Show us all your creativity!**
+You are becoming a great Data Scientist!
+**Now, this is your time! Show us your whole creativity!**
 
-Use graphs and any other resources that comes in your mind, that's ok? Feelings about the dataset can be really interesting! Go on! Let's work hard!
+Use graphs and any other resources that comes in your mind. Feelings about the dataset can be really interesting! Go on! Let's work hard!
 
 
 
