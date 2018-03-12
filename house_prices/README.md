@@ -50,6 +50,6 @@ Of course there are many more algorithms to solve regression problems. Since Lin
 
 ## Fifth phase
 You are becoming a great Data Scientist!
-**Now, this is your time! Show us your whole creativity!**
+**Now, this is your time! Show us your all creativity!**
 
 Use graphs and any other resources that comes in your mind. Feelings about the dataset can be really interesting! Go on! Let's work hard!
