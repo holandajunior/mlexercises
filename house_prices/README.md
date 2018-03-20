@@ -14,7 +14,7 @@ As you noticed, all resources (including the dataset) can be downloaded from the
 ## First phase
 Is this problem supposed to be a Regression problem, right? Then to get it started, we expect you can predict the home price using Univariate and Multivariate Linear Regression. 
 
-But it has some constraints, ok? We hope you can build the algorithm by yourself. So, you have obey the following points:
+But it has some constraints, ok? We hope you can build the algorithm by yourself. So, you have to obey the following points:
 
 - Here, we do not expect any graphs or analysis, just the algorithms and their results;
 - When developing Multivariate Linear Regression, use all variables!
