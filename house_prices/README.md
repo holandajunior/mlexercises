@@ -16,14 +16,13 @@ Is this problem supposed to be a Regression problem, right? Then to get it start
 
 But it has some constraints, ok? We hope you can build the algorithm by yourself. So, you have obey the following points:
 
-- Scikit-learn library cannot be used;
-- The algorithms and mathematical operations must be implemented with your own functions;
-- You can use any other libraries to handle the data (As advice, you may use Pandas and Numpy);
 - Here, we do not expect any graphs or analysis, just the algorithms and their results;
 - When developing Multivariate Linear Regression, use all variables!
 - And when developing Univariate Linear Regression, this is your choice! ;)
 
 Although it is a machine learning challenge, we hope you can show us your software engineer skills, ok? Then, try to organize and make your code readable and beatiful as you can. Surprise us!
+
+By the way, if you want get more points, the algorithms and mathematical operations can be implemented with your own functions. Thus, you can use any lib to do algebra linear operations.
 
 ## Second phase
 Alright, you have developed such algorithms and now we all know how to get home's prices. However, has it good answers? Could you explain to us what your feelings about algorithms' results? It could be better, not only your feelings, you might show us why we can believe in your regressor, right?
